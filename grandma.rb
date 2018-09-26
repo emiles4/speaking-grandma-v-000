@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-  if phrase = /[A-Z]
+  if phrase = /[A-Z]/
   puts "NO, NOT SINCE 1938!"
     if phrase = "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
